@@ -1,0 +1,16 @@
+#mygs-custom-layout-edit-bar {
+	position: fixed;
+	top: 50px;
+	width: 100%;
+	padding: 5px 0;
+}
+
+#mygs-custom-layout-edit-bar strong {
+	margin-top: 10px;
+	padding-right: 10px;
+	z-index: 999;
+}
+
+.panel-heading {
+	cursor: move;
+}
